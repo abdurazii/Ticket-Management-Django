@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+chatvenv/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+/media
+*.pem
+*.crt
+*.key
+
+# If your static files are not in a separate directory:
+staticfiles/
+
+# Local configuration files
+*.local
+*.env
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+coverage/
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# pytest
+.cache
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
